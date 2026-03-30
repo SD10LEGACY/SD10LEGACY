@@ -43,10 +43,10 @@ When I'm not pushing commits, I'm chasing light through a lens, writing rap vers
 </td>
 <td width="50%" valign="top">
 
-**Currently supporting →** &nbsp;`FC Barcelona 🔵🔴`
+
 **Currently supporting →** <a href="https://www.fcbarcelona.com/en/football/first-team/schedule"><kbd>FC Barcelona 🔵🔴</kbd></a>
 
-**Currently shooting →** &nbsp;`Streets of Kolkata`
+
 **Currently shooting →** <a href="https://www.google.com/maps/place/Kolkata"><kbd>Streets of Kolkata</kbd></a>
 
 </td>
