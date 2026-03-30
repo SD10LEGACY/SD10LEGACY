@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/l41lOlmIQvtciio7K/giphy.gif" alt="The Social Network Coding" width="100%" style="border-radius: 15px;">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Coding Animation" style="border-radius: 15px;">
 
 <br><br>
 
@@ -8,12 +8,13 @@
   <img src="logo.png" alt="Shreyojit Das Portfolio" height="80">
 </a>
 
-<h1>Hi, I'm Shreyojit ⚡</h1>
-<p><b>BCA Undergrad @ IEM (Class of 2026) | Full-Stack Developer | ML Enthusiast</b></p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+Shreyojit+⚡;BCA+Undergrad+%40+IEM;Full-Stack+Developer;ML+Enthusiast" alt="Typing SVG" />
+</a>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 # 💫 About Me:
 🎓 I’m currently pursuing my BCA at the Institute of Engineering & Management (Class of 2026)<br>
@@ -73,10 +74,10 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/11ISwbgCxEzMyY/giphy.gif" alt="Chandler Bing Friends Laptop" width="300" style="border-radius: 10px;">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=2000&color=FF7139&center=true&vCenter=true&width=500&lines=%22Talk+is+cheap.+Show+me+the+code.%22+-+Linus+Torvalds;Keep+building.+Keep+shipping." alt="Typing SVG" />
+</a>
 
-<br><br>
-<i>"Talk is cheap. Show me the code."</i>
 <br><br>
 
 <a href="https://visitcount.itsvg.in">
