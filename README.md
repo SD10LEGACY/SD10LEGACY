@@ -49,7 +49,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## ∞ contributions in the last year
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SD10LEGACY/SD10LEGACY/output/github-contribution-grid-snake-dark.svg">
@@ -62,10 +62,10 @@
 
 ## 📊 The Data:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SD10LEGACY&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SD10LEGACY&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SD10LEGACY&theme=dracula&show_icons=true&hide_border=false&include_all_commits=true&count_private=false" height="150" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SD10LEGACY&theme=dracula&hide_border=false&layout=compact" height="150" alt="Top Languages">
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -75,7 +75,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=2000&color=FF7139&center=true&vCenter=true&width=500&lines=%22Talk+is+cheap.+Show+me+the+code.%22+-+Linus+Torvalds;Keep+building.+Keep+shipping." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=2000&color=FF7139&center=true&vCenter=true&width=800&lines=%22Talk+is+cheap.+Show+me+the+code.%22+-+Linus+Torvalds;Keep+building.+Keep+shipping." alt="Typing SVG" />
 </a>
 
 <br><br>
