@@ -12,7 +12,7 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/%E2%86%97%20shreyojitdas.netlify.app-0d0d0d?style=for-the-badge&labelColor=C9A96E&color=0d0d0d)](https://shreyojitdas.netlify.app/)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Write%20Me-0d0d0d?style=for-the-badge&labelColor=2a1f14&color=0d0d0d&logo=gmail&logoColor=C9A96E)](mailto:shreyojitdas10m@gmail.com)
+[![Portfolio](https://img.shields.io/badge/%E2%86%97%20shreyojitdas.netlify.app-0d0d0d?style=for-the-badge&labelColor=C9A96E&color=0d0d0d)](https://shreyojitdas.netlify.app/)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Write%20Me-0d0d0d?style=for-the-badge&labelColor=2a1f14&color=0d0d0d&logo=gmail&logoColor=C9A96E)](mailto:shreyojit.iembca2026@gmail.com)
 
 <br>
 
