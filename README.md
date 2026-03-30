@@ -8,7 +8,7 @@
 ⚡ Fun fact: I built a sleep disorder prediction model, yet I still ruin my own sleep schedule playing Red Dead Redemption or listening to The Weeknd.
 
 ## 🌐 Socials & Portfolio:
-[![Portfolio](https://img.shields.io/badge/Website-Personal_Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://your-website-link-here.com)
+[![Portfolio](https://img.shields.io/badge/Website-Personal_Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)]([https://your-website-link-here.com](https://shreyojitdas.netlify.app/))
 [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyojitdas10m@gmail.com) 
 
 ## 💻 Tech Stack:
@@ -23,8 +23,6 @@
 
 **Deployment, Hardware & Tools** ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
 
-## 📊 GitHub Stats:
-*(Stats will populate as you push more code!)*
 
 ![](https://github-readme-stats.vercel.app/api?username=SD10LEGACY&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SD10LEGACY&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
