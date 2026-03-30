@@ -1,23 +1,33 @@
 name: Generate Datas
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule:
+    - cron: "0 */12 * * *" # executes every 12 hours
   workflow_dispatch:
+
+# THIS IS THE MAGIC FIX FOR THE 403 ERROR
+permissions:
+  contents: write
 
 jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-      # Snake Animation
-      - uses: Platane/snk@master
+      # 1. Checkout the repository
+      - uses: actions/checkout@v4
+
+      # 2. Generate the Snake Animation (Updated to v3 to fix warnings)
+      - uses: Platane/snk@v3
         id: snake-gif
         with:
           github_user_name: SD10LEGACY
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      # 3. Push to the output branch (Updated to v4 to fix warnings)
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
