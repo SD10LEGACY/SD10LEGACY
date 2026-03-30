@@ -9,7 +9,7 @@
 </a>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I%27m+Shreyojit+%E2%9A%A1;BCA+Undergrad+%40+IEM;Full-Stack+Developer;ML+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I%27m+Shreyojit+%E2%9A%A1;BCA+Undergrad+%40+IEM;Full-Stack+Developer;ML+Enthusiast" alt="Typing SVG" />
 </a>
 
 </div>
@@ -27,8 +27,8 @@
 ⚡ Fun fact: I built a sleep disorder prediction model, yet I still ruin my own sleep schedule playing Red Dead Redemption or listening to The Weeknd.
 
 ## 🌐 Socials & Portfolio:
-[![Portfolio](https://img.shields.io/badge/Website-Personal_Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://shreyojitdas.netlify.app/)
-[![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyojitdas10m@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/Website-Personal_Portfolio-%23282A36.svg?style=for-the-badge&logo=firefox&logoColor=%23FF79C6)](https://shreyojitdas.netlify.app/)
+[![email](https://img.shields.io/badge/Email-%23282A36?style=for-the-badge&logo=gmail&logoColor=%23FF5555)](mailto:shreyojitdas10m@gmail.com) 
 
 ## 💻 Tech Stack:
 
@@ -58,7 +58,7 @@
   </picture>
 </div>
 
----
+
 <!--
 ## 📊 The Data:
 
@@ -67,15 +67,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SD10LEGACY&theme=dracula&hide_border=false&layout=compact" height="150" alt="Top Languages">
 </div>
 -->
+---
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
 ---
 
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=2000&color=FF7139&center=true&vCenter=true&width=800&lines=%22Talk+is+cheap.+Show+me+the+code.%22+-+Linus+Torvalds;Keep+building.+Keep+shipping." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=2000&color=FF79C6&center=true&vCenter=true&width=800&lines=%22Talk+is+cheap.+Show+me+the+code.%22+-+Linus+Torvalds;Keep+building.+Keep+shipping." alt="Typing SVG" />
 </a>
 
 <br><br>
