@@ -36,9 +36,9 @@ When I'm not pushing commits, I'm chasing light through a lens, writing rap vers
 <tr>
 <td width="50%" valign="top">
 
-**Currently building →** &nbsp;`Voltrex Quantitative Terminal`
+**Currently building →** <a href="https://voltrex.streamlit.app/"><kbd>Voltrex Quantitative Terminal</kbd></a>
 
-**Currently building →**  <a href="https://open.spotify.com/user/31htwvtb3qn57thlzmsbjqcuna24"><kbd>The Weeknd · Frank Ocean</kbd></a>
+**Currently listening →**  <a href="https://open.spotify.com/user/31htwvtb3qn57thlzmsbjqcuna24"><kbd>The Weeknd · Frank Ocean</kbd></a>
 
 </td>
 <td width="50%" valign="top">
