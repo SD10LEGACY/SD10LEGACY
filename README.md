@@ -1,5 +1,23 @@
+<div align="center">
+
+<img src="https://media.giphy.com/media/l41lOlmIQvtciio7K/giphy.gif" alt="The Social Network Coding" width="100%" style="border-radius: 15px;">
+
+<br><br>
+
+<a href="https://shreyojitdas.netlify.app/">
+  <img src="logo.png" alt="Shreyojit Das Portfolio" height="80">
+</a>
+
+<h1>Hi, I'm Shreyojit ⚡</h1>
+<p><b>BCA Undergrad @ IEM (Class of 2026) | Full-Stack Developer | ML Enthusiast</b></p>
+
+</div>
+
+---
+
 # 💫 About Me:
 🎓 I’m currently pursuing my BCA at the Institute of Engineering & Management (Class of 2026)<br>
+🔭 I’m currently working on a **Real-Time Braille Interface** and **Titan Vault Password Manager**<br>
 🔭 I’m currently cooking something interesting<br>
 👯 I’m looking to collaborate on innovative open-source projects<br>
 🤝 I’m looking for help with mastering advanced Flutter concepts<br>
@@ -31,18 +49,38 @@
 ---
 
 ## 🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SD10LEGACY/SD10LEGACY/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SD10LEGACY/SD10LEGACY/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SD10LEGACY/SD10LEGACY/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SD10LEGACY/SD10LEGACY/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SD10LEGACY/SD10LEGACY/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SD10LEGACY/SD10LEGACY/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SD10LEGACY&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SD10LEGACY&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
+
+## 📊 The Data:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SD10LEGACY&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SD10LEGACY&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SD10LEGACY&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/11ISwbgCxEzMyY/giphy.gif" alt="Chandler Bing Friends Laptop" width="300" style="border-radius: 10px;">
+
+<br><br>
+<i>"Talk is cheap. Show me the code."</i>
+<br><br>
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=SD10LEGACY&icon=0&color=0" alt="Profile Views">
+</a>
+
+</div>
