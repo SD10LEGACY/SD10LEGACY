@@ -34,7 +34,7 @@ When I'm not pushing commits, I'm chasing light through a lens, writing rap vers
 
 <table border="0" width="100%" cellpadding="0" cellspacing="0">
 <tr>
-<td width="50%" valign="top">
+<td width="90%" valign="top">
 
 **Currently building →** <a href="https://voltrex.streamlit.app/"><kbd>Voltrex Quantitative Terminal</kbd></a>
 
