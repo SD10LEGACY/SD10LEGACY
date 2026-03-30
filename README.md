@@ -5,7 +5,7 @@
 <br><br>
 
 <a href="https://shreyojitdas.netlify.app/">
-  <img src="logo.png" alt="Shreyojit Das Portfolio" height="80">
+  <img src="favicon.ico" alt="Shreyojit Das Portfolio" height="80">
 </a>
 
 <a href="https://git.io/typing-svg">
