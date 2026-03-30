@@ -1,6 +1,6 @@
 # 💫 About Me:
 🎓 I’m currently pursuing my BCA at the Institute of Engineering & Management (Class of 2026)<br>
-🔭 I’m currently working on a **Real-Time Braille Interface** and **Titan Vault Password Manager**<br>
+🔭 I’m currently cooking something interesting<br>
 👯 I’m looking to collaborate on innovative open-source projects<br>
 🤝 I’m looking for help with mastering advanced Flutter concepts<br>
 🌱 I’m currently learning Flutter<br>
