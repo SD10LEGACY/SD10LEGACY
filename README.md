@@ -32,24 +32,7 @@ When I'm not pushing commits, I'm chasing light through a lens, writing rap vers
 
 <br>
 
-<table border="0" width="100%" cellpadding="0" cellspacing="0">
-<tr>
-<td width="80%" valign="top">
-
-**Currently building →** <a href="https://voltrex.streamlit.app/"><kbd>Voltrex Quantitative Terminal</kbd></a>
-
-**Currently listening →**  <a href="https://open.spotify.com/user/31htwvtb3qn57thlzmsbjqcuna24"><kbd>The Weeknd · Frank Ocean</kbd></a>
-
-</td>
-<td width="80%" valign="top">
-
-**Currently supporting →** <a href="https://www.fcbarcelona.com/en/football/first-team/schedule"><kbd>FC Barcelona 🔵🔴</kbd></a>
-
-**Currently shooting →** <a href="https://www.google.com/maps/place/Kolkata"><kbd>Streets of Kolkata</kbd></a>
-
-</td>
-</tr>
-</table>
+**
 
 <br>
 
