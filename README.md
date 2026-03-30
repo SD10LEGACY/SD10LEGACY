@@ -59,14 +59,14 @@
 </div>
 
 ---
-
+<!--
 ## 📊 The Data:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SD10LEGACY&theme=dracula&show_icons=true&hide_border=false&include_all_commits=true&count_private=false" height="150" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SD10LEGACY&theme=dracula&hide_border=false&layout=compact" height="150" alt="Top Languages">
 </div>
-
+-->
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -79,9 +79,10 @@
 </a>
 
 <br><br>
-
+<!--
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=SD10LEGACY&icon=0&color=0" alt="Profile Views">
 </a>
 
 </div>
+-->
