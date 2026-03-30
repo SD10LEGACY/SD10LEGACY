@@ -32,24 +32,22 @@ When I'm not pushing commits, I'm chasing light through a lens, writing rap vers
 
 <br>
 
-<table border="0" width="100%" cellpadding="12" cellspacing="0">
+<table border="0" width="100%" cellpadding="0" cellspacing="0">
 <tr>
-<td width="50%" valign="top" style="white-space: nowrap;">
+<td width="50%" valign="top">
 
-  <b>Currently building →</b> &nbsp;<a href="https://voltrex.streamlit.app/"><kbd>Voltrex Quantitative Terminal</kbd></a>
-  
-  <br><br>
-  
-  <b>Currently listening →</b> &nbsp;<a href="https://open.spotify.com/user/31htwvtb3qn57thlzmsbjqcuna24"><kbd>The Weeknd · Frank Ocean</kbd></a>
+**Currently building →** <a href="https://voltrex.streamlit.app/"><kbd>Voltrex Quantitative Terminal</kbd></a>
+
+**Currently listening →**  <a href="https://open.spotify.com/user/31htwvtb3qn57thlzmsbjqcuna24"><kbd>The Weeknd · Frank Ocean</kbd></a>
 
 </td>
-<td width="50%" valign="top" style="white-space: nowrap;">
+<td width="50%" valign="top">
 
-  <b>Currently supporting →</b> &nbsp;<a href="https://www.fcbarcelona.com/en/football/first-team/schedule"><kbd>FC Barcelona 🔵🔴</kbd></a>
-  
-  <br><br>
-  
-  <b>Currently shooting →</b> &nbsp;<a href="https://www.google.com/maps/place/Kolkata"><kbd>Streets of Kolkata</kbd></a>
+**Currently supporting →** &nbsp;`FC Barcelona 🔵🔴`
+**Currently supporting →** <a href="https://www.fcbarcelona.com/en/football/first-team/schedule"><kbd>FC Barcelona 🔵🔴</kbd></a>
+
+**Currently shooting →** &nbsp;`Streets of Kolkata`
+**Currently shooting →** <a href="https://www.google.com/maps/place/Kolkata"><kbd>Streets of Kolkata</kbd></a>
 
 </td>
 </tr>
