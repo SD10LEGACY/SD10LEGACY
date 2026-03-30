@@ -41,7 +41,7 @@ When I'm not pushing commits, I'm chasing light through a lens, writing rap vers
 **Currently listening →**  <a href="https://open.spotify.com/user/31htwvtb3qn57thlzmsbjqcuna24"><kbd>The Weeknd · Frank Ocean</kbd></a>
 
 </td>
-<td width="50%" valign="top">
+<td width="555%" valign="top">
 
 
 **Currently supporting →** <a href="https://www.fcbarcelona.com/en/football/first-team/schedule"><kbd>FC Barcelona 🔵🔴</kbd></a>
