@@ -8,7 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=700&size=52&pause=4000&color=C9A96E&center=true&vCenter=true&width=700&height=80&lines=Shreyojit+Das)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&weight=400&size=15&pause=2500&color=7A6A50&center=true&vCenter=true&width=700&height=35&lines=Developer+%C2%B7+Builder+%C2%B7+Visual+Thinker;BCA+%40+IEM+Kolkata+%C2%B7+Class+of+%2726)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&weight=400&size=15&pause=2500&color=7A6A50&center=true&vCenter=true&width=700&height=35&lines=Developer+%C2%B7+Builder+%C2%B7+Artist;BCA+%40+IEM+Kolkata+%C2%B7+Class+of+%2726)](https://git.io/typing-svg)
 
 <br>
 
