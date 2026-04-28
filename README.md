@@ -218,7 +218,7 @@ A highly accurate classification model predicting sleep anomalies. Where clinica
 
 <br>
 
-## &nbsp;&nbsp;✦ &nbsp; <!-- CONTRIBUTION_COUNT_START -->...<!-- CONTRIBUTION_COUNT_END --> contributions in the last year
+## &nbsp;&nbsp;✦ &nbsp; <!-- CONTRIBUTION_COUNT_START -->1974<!-- CONTRIBUTION_COUNT_END --> contributions in the last year
 
 <br />
 
