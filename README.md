@@ -40,40 +40,44 @@ When I'm not pushing commits, I'm chasing light through a lens, writing rap vers
 
 <div align="center">
 
-<table border="0" width="100%" cellpadding="10" cellspacing="0">
-<tr>
+<table border="0" width="100%" cellpadding="14" cellspacing="0">
+<tr align="center">
 
-<!-- LEFT -->
-<td width="50%" valign="middle" align="center">
+<td>
 
-**Currently building →**  
-<a href="https://github.com/SD10LEGACY/PromptBoost"><kbd>Prompt Boost</kbd></a>  
-&nbsp;&nbsp;&nbsp;
+**Building**  
+<br>
+<a href="https://github.com/SD10LEGACY/PromptBoost"><kbd>Prompt Boost</kbd></a>
 
-**Currently supporting →**  
-<a href="https://www.fcbarcelona.com/en/football/first-team/schedule"><kbd>FC Barcelona 🔵🔴</kbd></a>  
-&nbsp;&nbsp;&nbsp;
+</td>
 
-**Currently shooting →**  
+<td>
+
+**Supporting**  
+<br>
+<a href="https://www.fcbarcelona.com/en/football/first-team/schedule"><kbd>FC Barcelona 🔵🔴</kbd></a>
+
+</td>
+
+<td>
+
+**Shooting**  
+<br>
 <a href="https://www.google.com/maps/place/Kolkata"><kbd>Streets of Kolkata</kbd></a>
 
 </td>
 
-<!-- RIGHT -->
-<td width="50%" valign="middle" align="center">
+<td>
 
-**Currently listening →**  
+**Listening**  
+<br>
 <a href="https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"><kbd>The Weeknd · Frank Ocean</kbd></a>
 
 <br><br>
 
 <a href="https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS">
-  <img src="https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d" width="140" style="border-radius: 8px;" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d" width="120" style="border-radius: 8px;" />
 </a>
-
-&nbsp;&nbsp;&nbsp;
-
-[![Spotify](https://img.shields.io/badge/Open%20Spotify-0d0d0d?style=for-the-badge&logo=spotify&logoColor=C9A96E)](https://open.spotify.com/user/31htwvtb3qn57thlzmsbjqcuna24)
 
 </td>
 
@@ -85,7 +89,6 @@ When I'm not pushing commits, I'm chasing light through a lens, writing rap vers
 <br>
 
 ---
-
 <br>
 
 ## &nbsp;&nbsp;✦ &nbsp; the gallery
