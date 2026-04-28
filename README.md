@@ -254,7 +254,11 @@ A highly accurate classification model predicting sleep anomalies. Where clinica
 
 ## &nbsp;&nbsp;✦ &nbsp; random dev quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&bg_color=0d0d0d&quote_color=C9A96E&author_color=7A6A50&accent_color=C9A96E&border_color=0d0d0d)
+<p align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&bg_color=0d0d0d&title_color=C9A96E&text_color=7A6A50&quote_color=C9A96E)
+
+</p>
 
 
 <br>
