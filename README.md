@@ -49,11 +49,9 @@ When I'm not pushing commits, I'm chasing light through a lens, writing rap vers
 </td>
 <td width="50%" valign="top">
 
-**Currently listening →**
+**Currently listening →** <a href="https://open.spotify.com/user/31htwvtb3qn57thlzmsbjqcuna24"><kbd>The Weeknd · Frank Ocean</kbd></a>
 
-<a href="https://open.spotify.com/user/31htwvtb3qn57thlzmsbjqcuna24">
-  <img src="https://novatorem.vercel.app/api/spotify?background_color=0d0d0d&border_color=C9A96E" width="100%" alt="Spotify Now Playing"/>
-</a>
+[![Spotify](https://img.shields.io/badge/Open%20Spotify-0d0d0d?style=for-the-badge&logo=spotify&logoColor=C9A96E)](https://open.spotify.com/user/31htwvtb3qn57thlzmsbjqcuna24)
 
 </td>
 </tr>
@@ -202,7 +200,7 @@ A highly accurate classification model predicting sleep anomalies. Where clinica
 
 <br /><br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=SD10LEGACY&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=C9A96E&icon_color=C9A96E&text_color=7A6A50&ring_color=C9A96E&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SD10LEGACY&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=C9A96E&icon_color=C9A96E&text_color=7A6A50&ring_color=C9A96E" width="48%" alt="GitHub Stats"/>
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SD10LEGACY&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=C9A96E&text_color=7A6A50&langs_count=8" width="46%" alt="Top Languages"/>
 
@@ -218,7 +216,7 @@ A highly accurate classification model predicting sleep anomalies. Where clinica
 
 <br>
 
-## &nbsp;&nbsp;✦ &nbsp; <!-- CONTRIBUTION_COUNT_START -->1974<!-- CONTRIBUTION_COUNT_END --> contributions in the last year
+## &nbsp;&nbsp;✦ &nbsp; <!-- CONTRIBUTION_COUNT_START -->...<!-- CONTRIBUTION_COUNT_END --> contributions in the last year
 
 <br />
 
