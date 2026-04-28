@@ -1,6 +1,5 @@
 import os
 import requests
-import re
 
 # Fetch GitHub Token from environment
 TOKEN = os.getenv("GITHUB_TOKEN")
@@ -35,20 +34,23 @@ try:
     with open("README.md", "r", encoding="utf-8") as f:
         readme = f.read()
 
-    # Safely replace the number between the markers using strict group definitions
-    new_readme = re.sub(
-        r'().*?()', 
-        rf'\g<1>{count}\g<2>', 
-        readme,
-        flags=re.DOTALL
-    )
+    start_marker = ""
+    end_marker = ""
 
-    # Write the updated README
-    with open("README.md", "w", encoding="utf-8") as f:
-        f.write(new_readme)
+    # Bulletproof string replacement (No Regex)
+    if start_marker in readme and end_marker in readme:
+        before = readme.split(start_marker)[0]
+        after = readme.split(end_marker)[1]
         
-    print(f"Successfully updated contribution count to: {count}")
-    
-except KeyError:
-    print("Error parsing GitHub API response. Token might be invalid or expired.")
-    print(data) # This will print the actual error from GitHub if it fails
+        new_readme = f"{before}{start_marker}{count}{end_marker}{after}"
+        
+        # Write the updated README
+        with open("README.md", "w", encoding="utf-8") as f:
+            f.write(new_readme)
+            
+        print(f"Successfully updated contribution count to: {count}")
+    else:
+        print("Could not find the HTML markers in the README.")
+
+except Exception as e:
+    print(f"Error occurred: {e}")
