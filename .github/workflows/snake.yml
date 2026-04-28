@@ -2,11 +2,10 @@ name: Generate Datas
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # runs every 12 hours
-  workflow_dispatch:
-  push:
-    branches:
-      - main
+    - cron: "0 0 * * *"   # runs once daily at midnight UTC — no spam
+  workflow_dispatch:        # keep manual trigger so you can run it yourself anytime
+  # NOTE: "push" trigger intentionally removed — it caused an infinite loop
+  # (workflow commits README → push triggers workflow → commits again → repeat)
 
 permissions:
   contents: write
@@ -17,13 +16,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Checkout the repository with full history so git push works cleanly
+      # 1. Checkout with GH_PAT so the final push back to main is authenticated
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
           token: ${{ secrets.GH_PAT }}
 
-      # 2. Generate the Snake Animation (SVG only for fast builds)
+      # 2. Generate the Snake Animation SVGs
       - uses: Platane/snk/svg-only@v3
         id: snake-gif
         with:
@@ -42,26 +41,30 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # 4. Setup Python for the contribution count script
+      # 4. Setup Python
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
-      # 5. Install Python dependencies
+      # 5. Install dependencies
       - name: Install Python dependencies
         run: pip install requests
 
-      # 6. Run the Python script to update the contribution count in README.md
+      # 6. Run the contribution count script
       - name: Update Contribution Count
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
         run: python update_count.py
 
-      # 7. Commit and push the updated README.md back to main
+      # 7. Commit and push — two critical fixes here:
+      #    a) remote URL explicitly uses GH_PAT to avoid the 403 error
+      #    b) commit message contains [skip ci] so the push does NOT
+      #       re-trigger this workflow — breaks the infinite loop
       - name: Commit and Push Updated README
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:${{ secrets.GH_PAT }}@github.com/SD10LEGACY/SD10LEGACY.git
           git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update dynamic contribution count" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update dynamic contribution count [skip ci]" && git push)
