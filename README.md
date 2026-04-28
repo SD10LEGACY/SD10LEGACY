@@ -40,42 +40,51 @@ When I'm not pushing commits, I'm chasing light through a lens, writing rap vers
 
 <div align="center">
 
-<table width="100%" border="0" cellspacing="0" cellpadding="18">
+<table border="0" width="100%" cellpadding="16" cellspacing="0">
 <tr>
 
-<!-- LEFT SIDE -->
-<td width="55%" valign="middle" align="left">
-
-<b>Currently building →</b>  
-<a href="https://github.com/SD10LEGACY/PromptBoost"><kbd>Prompt Boost</kbd></a>  
+<!-- LEFT COLUMN -->
+<td width="50%" valign="top" align="center">
 
 <br>
 
-<b>Currently supporting →</b>  
-<a href="https://www.fcbarcelona.com/en/football/first-team/schedule"><kbd>FC Barcelona 🔵🔴</kbd></a>  
-
-<br>
-
-<b>Currently shooting →</b>  
-<a href="https://www.google.com/maps/place/Kolkata"><kbd>Streets of Kolkata</kbd></a>  
-
-</td>
-
-<!-- RIGHT SIDE -->
-<td width="45%" valign="middle" align="center">
-
-<b>Currently listening →</b>  
-<a href="https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"><kbd>The Weeknd · Frank Ocean</kbd></a>  
+**Currently building →**  
+<a href="https://github.com/SD10LEGACY/PromptBoost"><kbd>Prompt Boost</kbd></a>
 
 <br><br>
 
+**Currently supporting →**  
+<a href="https://www.fcbarcelona.com/en/football/first-team/schedule"><kbd>FC Barcelona 🔵🔴</kbd></a>
+
+<br><br>
+
+**Currently shooting →**  
+<a href="https://www.google.com/maps/place/Kolkata"><kbd>Streets of Kolkata</kbd></a>
+
+<br>
+
+</td>
+
+<!-- RIGHT COLUMN -->
+<td width="50%" valign="top" align="center">
+
+<br>
+
+**Currently listening →**  
+<a href="https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"><kbd>The Weeknd · Frank Ocean</kbd></a>
+
+<br><br>
+
+<!-- ALBUM ART -->
 <a href="https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS">
-  <img src="https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d" width="150" style="border-radius: 10px;" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d" width="200" alt="Album Cover" style="border-radius: 10px;"/>
 </a>
 
 <br><br>
 
 [![Spotify](https://img.shields.io/badge/Open%20Spotify-0d0d0d?style=for-the-badge&logo=spotify&logoColor=C9A96E)](https://open.spotify.com/user/31htwvtb3qn57thlzmsbjqcuna24)
+
+<br>
 
 </td>
 
