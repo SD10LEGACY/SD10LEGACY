@@ -17,13 +17,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Checkout the repository with full history so git push works cleanly
+      # 1. Checkout the repository with your PAT and ensure credentials persist
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
           token: ${{ secrets.GH_PAT }}
+          persist-credentials: true
 
-      # 2. Generate the Snake Animation (SVG only for fast builds)
+      # 2. Generate the Snake Animation
       - uses: Platane/snk/svg-only@v3
         id: snake-gif
         with:
@@ -40,9 +41,9 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
 
-      # 4. Setup Python for the contribution count script
+      # 4. Setup Python
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
@@ -52,16 +53,22 @@ jobs:
       - name: Install Python dependencies
         run: pip install requests
 
-      # 6. Run the Python script to update the contribution count in README.md
+      # 6. Run the Python script to update README.md
       - name: Update Contribution Count
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
         run: python update_count.py
 
-      # 7. Commit and push the updated README.md back to main
+      # 7. Commit and push README using PAT for authentication
       - name: Commit and Push Updated README
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update dynamic contribution count" && git push)
+          if ! git diff --quiet && ! git diff --staged --quiet; then
+            git commit -m "chore: update dynamic contribution count"
+            # Explicitly using the PAT in the push URL to prevent 403 errors
+            git push https://${{ secrets.GH_PAT }}@://github.com{{ github.repository }}.git main
+          else
+            echo "No changes to commit"
+          fi
