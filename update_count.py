@@ -34,8 +34,9 @@ try:
     with open("README.md", "r", encoding="utf-8") as f:
         readme = f.read()
 
-    start_marker = ""
-    end_marker = ""
+    # These markers must exist in your README.md around the placeholder
+    start_marker = "<!-- CONTRIBUTION_COUNT_START -->"
+    end_marker = "<!-- CONTRIBUTION_COUNT_END -->"
 
     # Bulletproof string replacement (No Regex)
     if start_marker in readme and end_marker in readme:
