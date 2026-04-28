@@ -256,7 +256,7 @@ A highly accurate classification model predicting sleep anomalies. Where clinica
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=22&duration=4000&pause=3000&color=C9A96E&center=true&vCenter=true&width=800&lines=A+clever+person+solves+a+problem.+A+wise+person+avoids+it." />
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&bg_color=0d0d0d&title_color=C9A96E&text_color=7A6A50&quote_color=C9A96E)
 
 </p>
 
