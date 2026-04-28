@@ -35,11 +35,12 @@ try:
     with open("README.md", "r", encoding="utf-8") as f:
         readme = f.read()
 
-    # Replace the number between the markers
+    # Safely replace the number between the markers using strict group definitions
     new_readme = re.sub(
         r'().*?()', 
         rf'\g<1>{count}\g<2>', 
-        readme
+        readme,
+        flags=re.DOTALL
     )
 
     # Write the updated README
@@ -50,3 +51,4 @@ try:
     
 except KeyError:
     print("Error parsing GitHub API response. Token might be invalid or expired.")
+    print(data) # This will print the actual error from GitHub if it fails
