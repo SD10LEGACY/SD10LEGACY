@@ -40,54 +40,37 @@ When I'm not pushing commits, I'm chasing light through a lens, writing rap vers
 
 <div align="center">
 
-<table border="0" width="100%" cellpadding="16" cellspacing="0">
+<table border="0" width="100%" cellpadding="12" cellspacing="0">
 <tr>
-
-<!-- LEFT COLUMN -->
 <td width="50%" valign="top" align="center">
 
-<br>
-
-**Currently building →**  
+**Currently building →**<br>
 <a href="https://github.com/SD10LEGACY/PromptBoost"><kbd>Prompt Boost</kbd></a>
 
 <br><br>
 
-**Currently supporting →**  
+**Currently supporting →**<br>
 <a href="https://www.fcbarcelona.com/en/football/first-team/schedule"><kbd>FC Barcelona 🔵🔴</kbd></a>
 
 <br><br>
 
-**Currently shooting →**  
+**Currently shooting →**<br>
 <a href="https://www.google.com/maps/place/Kolkata"><kbd>Streets of Kolkata</kbd></a>
 
-<br>
-
 </td>
-
-<!-- RIGHT COLUMN -->
 <td width="50%" valign="top" align="center">
 
-<br>
-
-**Currently listening →**  
+**Currently listening →**<br>
 <a href="https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"><kbd>The Weeknd · Frank Ocean</kbd></a>
 
 <br><br>
 
-<!-- ALBUM ART -->
-<a href="https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS">
-  <img src="https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d" width="200" alt="Album Cover" style="border-radius: 10px;"/>
-</a>
-
+<a href="https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS"> <img src="https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d" width="180" alt="Album Cover" style="border-radius: 8px;"/> </a>
 <br><br>
 
 [![Spotify](https://img.shields.io/badge/Open%20Spotify-0d0d0d?style=for-the-badge&logo=spotify&logoColor=C9A96E)](https://open.spotify.com/user/31htwvtb3qn57thlzmsbjqcuna24)
 
-<br>
-
 </td>
-
 </tr>
 </table>
 
