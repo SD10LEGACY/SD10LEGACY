@@ -36,9 +36,11 @@ When I'm not pushing commits, I'm chasing light through a lens, writing rap vers
 
 <br>
 
+<div align="center">
+
 <table border="0" width="100%" cellpadding="12" cellspacing="0">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="middle" align="center">
 
 **Currently building →** <a href="https://voltrex.streamlit.app/"><kbd>Voltrex Quantitative Terminal</kbd></a>
 
@@ -47,7 +49,7 @@ When I'm not pushing commits, I'm chasing light through a lens, writing rap vers
 **Currently shooting →** <a href="https://www.google.com/maps/place/Kolkata"><kbd>Streets of Kolkata</kbd></a>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="middle" align="center">
 
 **Currently listening →** <a href="https://open.spotify.com/user/31htwvtb3qn57thlzmsbjqcuna24"><kbd>The Weeknd · Frank Ocean</kbd></a>
 
@@ -56,6 +58,8 @@ When I'm not pushing commits, I'm chasing light through a lens, writing rap vers
 </td>
 </tr>
 </table>
+
+</div>
 
 <br>
 
