@@ -16,6 +16,10 @@
 
 <br>
 
+![Profile Views](https://komarev.com/ghpvc/?username=SD10LEGACY&color=C9A96E&style=flat-square&label=profile+views)
+
+<br>
+
 </div>
 
 ---
@@ -38,16 +42,18 @@ When I'm not pushing commits, I'm chasing light through a lens, writing rap vers
 
 **Currently building →** <a href="https://voltrex.streamlit.app/"><kbd>Voltrex Quantitative Terminal</kbd></a>
 
-**Currently listening →**  <a href="https://open.spotify.com/user/31htwvtb3qn57thlzmsbjqcuna24"><kbd>The Weeknd · Frank Ocean</kbd></a>
+**Currently supporting →** <a href="https://www.fcbarcelona.com/en/football/first-team/schedule"><kbd>FC Barcelona 🔵🔴</kbd></a>
+
+**Currently shooting →** <a href="https://www.google.com/maps/place/Kolkata"><kbd>Streets of Kolkata</kbd></a>
 
 </td>
 <td width="50%" valign="top">
 
+**Currently listening →**
 
-**Currently supporting →** <a href="https://www.fcbarcelona.com/en/football/first-team/schedule"><kbd>FC Barcelona 🔵🔴</kbd></a>
-
-
-**Currently shooting →** <a href="https://www.google.com/maps/place/Kolkata"><kbd>Streets of Kolkata</kbd></a>
+<a href="https://open.spotify.com/user/31htwvtb3qn57thlzmsbjqcuna24">
+  <img src="https://novatorem.vercel.app/api/spotify?background_color=0d0d0d&border_color=C9A96E" width="100%" alt="Spotify Now Playing"/>
+</a>
 
 </td>
 </tr>
@@ -186,7 +192,33 @@ A highly accurate classification model predicting sleep anomalies. Where clinica
 
 <br>
 
-## &nbsp;&nbsp;✦ &nbsp; <!-- CONTRIBUTION_COUNT_START -->1972<!-- CONTRIBUTION_COUNT_END --> contributions in the last year
+## &nbsp;&nbsp;✦ &nbsp; the numbers
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SD10LEGACY&theme=darkhub&no-frame=true&row=1&column=7&margin-w=4" width="100%" alt="GitHub Trophies"/>
+
+<br /><br />
+
+<img src="https://github-readme-stats.vercel.app/api?username=SD10LEGACY&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=C9A96E&icon_color=C9A96E&text_color=7A6A50&ring_color=C9A96E&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SD10LEGACY&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=C9A96E&text_color=7A6A50&langs_count=8" width="46%" alt="Top Languages"/>
+
+<br /><br />
+
+<img src="https://streak-stats.demolab.com?user=SD10LEGACY&hide_border=true&background=0d0d0d&ring=C9A96E&fire=C9A96E&currStreakLabel=C9A96E&sideLabels=7A6A50&dates=7A6A50&sideNums=C9A96E&currStreakNum=C9A96E&stroke=1a1208" width="60%" alt="GitHub Streak"/>
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+## &nbsp;&nbsp;✦ &nbsp; <!-- CONTRIBUTION_COUNT_START -->...<!-- CONTRIBUTION_COUNT_END --> contributions in the last year
 
 <br />
 
@@ -199,6 +231,14 @@ A highly accurate classification model predicting sleep anomalies. Where clinica
 </div>
 
 <br />
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SD10LEGACY&bg_color=0d0d0d&color=C9A96E&line=3a2e1e&point=C9A96E&area=true&area_color=C9A96E&hide_border=true" width="100%" alt="Activity Graph"/>
+
+</div>
+
+<br>
 
 ---
 
