@@ -31,7 +31,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # 3. Push to the output branch (Updated to v4 to fix warnings)
+      # 3. Push to the output branch
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
@@ -52,7 +52,6 @@ jobs:
       # 6. Run the Python script to update README.md
       - name: Update Contribution Count
         env:
-          # Uses the Personal Access Token we discussed for the GraphQL API
           GITHUB_TOKEN: ${{ secrets.GH_PAT }} 
         run: python update_count.py
 
@@ -62,5 +61,4 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          # Only commit if there are changes
           git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update dynamic contribution count" && git push)
