@@ -256,7 +256,7 @@ A highly accurate classification model predicting sleep anomalies. Where clinica
 
 <p align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&bg_color=0d0d0d&title_color=C9A96E&text_color=7A6A50&quote_color=C9A96E&border=true)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&bg_color=0d0d0d&title_color=C9A96E&text_color=7A6A50&quote_color=C9A96E&border=true)
 
 </p>
 
