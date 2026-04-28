@@ -20,8 +20,8 @@ jobs:
       # 1. Checkout the repository
       - uses: actions/checkout@v4
 
-      # 2. Generate the Snake Animation (Updated to v3 to fix warnings)
-      - uses: Platane/snk@v3
+      # 2. Generate the Snake Animation (Updated to svg-only for faster builds)
+      - uses: Platane/snk/svg-only@v3
         id: snake-gif
         with:
           github_user_name: SD10LEGACY
