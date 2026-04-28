@@ -24,6 +24,10 @@
 
 <br>
 
+---
+
+<br>
+
 ## &nbsp;&nbsp;✦ &nbsp; the artist
 
 <br>
@@ -36,51 +40,40 @@ When I'm not pushing commits, I'm chasing light through a lens, writing rap vers
 
 <div align="center">
 
-<table border="0" width="100%" cellpadding="16" cellspacing="0">
+<table border="0" width="100%" cellpadding="10" cellspacing="0">
 <tr>
 
-<!-- LEFT COLUMN -->
-<td width="50%" valign="top" align="center">
-
-<br>
+<!-- LEFT -->
+<td width="50%" valign="middle" align="center">
 
 **Currently building →**  
-<a href="https://github.com/SD10LEGACY/PromptBoost"><kbd>Prompt Boost</kbd></a>
-
-<br><br>
+<a href="https://github.com/SD10LEGACY/PromptBoost"><kbd>Prompt Boost</kbd></a>  
+&nbsp;&nbsp;&nbsp;
 
 **Currently supporting →**  
-<a href="https://www.fcbarcelona.com/en/football/first-team/schedule"><kbd>FC Barcelona 🔵🔴</kbd></a>
-
-<br><br>
+<a href="https://www.fcbarcelona.com/en/football/first-team/schedule"><kbd>FC Barcelona 🔵🔴</kbd></a>  
+&nbsp;&nbsp;&nbsp;
 
 **Currently shooting →**  
 <a href="https://www.google.com/maps/place/Kolkata"><kbd>Streets of Kolkata</kbd></a>
 
-<br>
-
 </td>
 
-<!-- RIGHT COLUMN -->
-<td width="50%" valign="top" align="center">
-
-<br>
+<!-- RIGHT -->
+<td width="50%" valign="middle" align="center">
 
 **Currently listening →**  
 <a href="https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"><kbd>The Weeknd · Frank Ocean</kbd></a>
 
 <br><br>
 
-<!-- ALBUM ART -->
 <a href="https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS">
-  <img src="https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d" width="200" alt="Album Cover" style="border-radius: 10px;"/>
+  <img src="https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d" width="140" style="border-radius: 8px;" />
 </a>
 
-<br><br>
+&nbsp;&nbsp;&nbsp;
 
 [![Spotify](https://img.shields.io/badge/Open%20Spotify-0d0d0d?style=for-the-badge&logo=spotify&logoColor=C9A96E)](https://open.spotify.com/user/31htwvtb3qn57thlzmsbjqcuna24)
-
-<br>
 
 </td>
 
@@ -92,6 +85,7 @@ When I'm not pushing commits, I'm chasing light through a lens, writing rap vers
 <br>
 
 ---
+
 <br>
 
 ## &nbsp;&nbsp;✦ &nbsp; the gallery
