@@ -40,44 +40,42 @@ When I'm not pushing commits, I'm chasing light through a lens, writing rap vers
 
 <div align="center">
 
-<table border="0" width="100%" cellpadding="14" cellspacing="0">
-<tr align="center">
+<table width="100%" border="0" cellspacing="0" cellpadding="18">
+<tr>
 
-<td>
+<!-- LEFT SIDE -->
+<td width="55%" valign="middle" align="left">
 
-**Building**  
+<b>Currently building →</b>  
+<a href="https://github.com/SD10LEGACY/PromptBoost"><kbd>Prompt Boost</kbd></a>  
+
 <br>
-<a href="https://github.com/SD10LEGACY/PromptBoost"><kbd>Prompt Boost</kbd></a>
+
+<b>Currently supporting →</b>  
+<a href="https://www.fcbarcelona.com/en/football/first-team/schedule"><kbd>FC Barcelona 🔵🔴</kbd></a>  
+
+<br>
+
+<b>Currently shooting →</b>  
+<a href="https://www.google.com/maps/place/Kolkata"><kbd>Streets of Kolkata</kbd></a>  
 
 </td>
 
-<td>
+<!-- RIGHT SIDE -->
+<td width="45%" valign="middle" align="center">
 
-**Supporting**  
-<br>
-<a href="https://www.fcbarcelona.com/en/football/first-team/schedule"><kbd>FC Barcelona 🔵🔴</kbd></a>
-
-</td>
-
-<td>
-
-**Shooting**  
-<br>
-<a href="https://www.google.com/maps/place/Kolkata"><kbd>Streets of Kolkata</kbd></a>
-
-</td>
-
-<td>
-
-**Listening**  
-<br>
-<a href="https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"><kbd>The Weeknd · Frank Ocean</kbd></a>
+<b>Currently listening →</b>  
+<a href="https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"><kbd>The Weeknd · Frank Ocean</kbd></a>  
 
 <br><br>
 
 <a href="https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS">
-  <img src="https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d" width="120" style="border-radius: 8px;" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d" width="150" style="border-radius: 10px;" />
 </a>
+
+<br><br>
+
+[![Spotify](https://img.shields.io/badge/Open%20Spotify-0d0d0d?style=for-the-badge&logo=spotify&logoColor=C9A96E)](https://open.spotify.com/user/31htwvtb3qn57thlzmsbjqcuna24)
 
 </td>
 
@@ -89,6 +87,7 @@ When I'm not pushing commits, I'm chasing light through a lens, writing rap vers
 <br>
 
 ---
+
 <br>
 
 ## &nbsp;&nbsp;✦ &nbsp; the gallery
