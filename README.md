@@ -51,7 +51,7 @@ When I'm not pushing commits, I'm chasing light through a lens, writing rap vers
 </td>
 <td width="50%" valign="middle" align="center">
 
-**Currently listening →** <a href="..."><kbd>The Weeknd · Frank Ocean</kbd></a>
+**Currently listening →** <a href="https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"><kbd>The Weeknd ·</kbd></a><a href="https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"><kbd>Frank Ocean</kbd></a>
 
 <!-- ALBUM ART — comment out the lines below (from the <a> to </a>) to hide the album cover -->
 <a href="https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS"> <!--SPOTIFY_ALBUM_LINK-->
