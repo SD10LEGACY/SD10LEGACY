@@ -51,7 +51,13 @@ When I'm not pushing commits, I'm chasing light through a lens, writing rap vers
 </td>
 <td width="50%" valign="middle" align="center">
 
-**Currently listening →** <a href="https://open.spotify.com/user/31htwvtb3qn57thlzmsbjqcuna24"><kbd>The Weeknd · Frank Ocean</kbd></a>
+**Currently listening →** <a href="..."><kbd>The Weeknd · Frank Ocean</kbd></a>
+
+<!-- ALBUM ART — comment out the lines below (from the <a> to </a>) to hide the album cover -->
+<a href="SPOTIFY_ALBUM_LINK">
+  <img src="ALBUM_COVER_IMAGE_URL" width="180" alt="Album Cover" style="border-radius: 8px;"/>
+</a>
+<!-- END ALBUM ART -->
 
 [![Spotify](https://img.shields.io/badge/Open%20Spotify-0d0d0d?style=for-the-badge&logo=spotify&logoColor=C9A96E)](https://open.spotify.com/user/31htwvtb3qn57thlzmsbjqcuna24)
 
