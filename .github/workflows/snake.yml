@@ -2,13 +2,12 @@ name: Generate Datas
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # executes every 12 hours
+    - cron: "0 */12 * * *"  # runs every 12 hours
   workflow_dispatch:
   push:
     branches:
-    - main
+      - main
 
-# THIS IS THE MAGIC FIX FOR THE 403 ERROR
 permissions:
   contents: write
 
@@ -16,11 +15,15 @@ jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
-    steps:
-      # 1. Checkout the repository
-      - uses: actions/checkout@v4
 
-      # 2. Generate the Snake Animation (Updated to svg-only for faster builds)
+    steps:
+      # 1. Checkout the repository with full history so git push works cleanly
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GH_PAT }}
+
+      # 2. Generate the Snake Animation (SVG only for fast builds)
       - uses: Platane/snk/svg-only@v3
         id: snake-gif
         with:
@@ -31,7 +34,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # 3. Push to the output branch
+      # 3. Push SVGs to the output branch
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
@@ -44,18 +47,18 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
-          
+
       # 5. Install Python dependencies
       - name: Install Python dependencies
         run: pip install requests
 
-      # 6. Run the Python script to update README.md
+      # 6. Run the Python script to update the contribution count in README.md
       - name: Update Contribution Count
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_PAT }} 
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
         run: python update_count.py
 
-      # 7. Commit the updated README.md to the main branch
+      # 7. Commit and push the updated README.md back to main
       - name: Commit and Push Updated README
         run: |
           git config --global user.name "github-actions[bot]"
