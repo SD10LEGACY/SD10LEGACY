@@ -42,7 +42,7 @@ When I'm not pushing commits, I'm chasing light through a lens, writing rap vers
 <tr>
 <td width="50%" valign="middle" align="center">
 
-**Currently building →** <a href="https://voltrex.streamlit.app/"><kbd>Voltrex Quantitative Terminal</kbd></a>
+**Currently building →** <a href="https://github.com/SD10LEGACY/PromptBoost"><kbd>Prompt Boost</kbd></a>
 
 **Currently supporting →** <a href="https://www.fcbarcelona.com/en/football/first-team/schedule"><kbd>FC Barcelona 🔵🔴</kbd></a>
 
