@@ -22,8 +22,6 @@
 
 </div>
 
----
-
 <br>
 
 ## &nbsp;&nbsp;✦ &nbsp; the artist
@@ -38,30 +36,54 @@ When I'm not pushing commits, I'm chasing light through a lens, writing rap vers
 
 <div align="center">
 
-<table border="0" width="100%" cellpadding="12" cellspacing="0">
+<table border="0" width="100%" cellpadding="16" cellspacing="0">
 <tr>
-<td width="50%" valign="middle" align="center">
 
-**Currently building →** <a href="https://github.com/SD10LEGACY/PromptBoost"><kbd>Prompt Boost</kbd></a>
+<!-- LEFT COLUMN -->
+<td width="50%" valign="top" align="center">
 
-**Currently supporting →** <a href="https://www.fcbarcelona.com/en/football/first-team/schedule"><kbd>FC Barcelona 🔵🔴</kbd></a>
+<br>
 
-**Currently shooting →** <a href="https://www.google.com/maps/place/Kolkata"><kbd>Streets of Kolkata</kbd></a>
+**Currently building →**  
+<a href="https://github.com/SD10LEGACY/PromptBoost"><kbd>Prompt Boost</kbd></a>
+
+<br><br>
+
+**Currently supporting →**  
+<a href="https://www.fcbarcelona.com/en/football/first-team/schedule"><kbd>FC Barcelona 🔵🔴</kbd></a>
+
+<br><br>
+
+**Currently shooting →**  
+<a href="https://www.google.com/maps/place/Kolkata"><kbd>Streets of Kolkata</kbd></a>
+
+<br>
 
 </td>
-<td width="50%" valign="middle" align="center">
 
-**Currently listening →** <a href="https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"><kbd>The Weeknd · Frank Ocean</kbd></a>
+<!-- RIGHT COLUMN -->
+<td width="50%" valign="top" align="center">
 
-<!-- ALBUM ART — comment out the lines below (from the <a> to </a>) to hide the album cover -->
-<a href="https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS"> <!--SPOTIFY_ALBUM_LINK-->
-  <img src="https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d" width="180" alt="Album Cover" style="border-radius: 8px;"/> <!--ALBUM_COVER_IMAGE_UR-->
+<br>
+
+**Currently listening →**  
+<a href="https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"><kbd>The Weeknd · Frank Ocean</kbd></a>
+
+<br><br>
+
+<!-- ALBUM ART -->
+<a href="https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS">
+  <img src="https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d" width="200" alt="Album Cover" style="border-radius: 10px;"/>
 </a>
-<!-- END ALBUM ART -->
+
+<br><br>
 
 [![Spotify](https://img.shields.io/badge/Open%20Spotify-0d0d0d?style=for-the-badge&logo=spotify&logoColor=C9A96E)](https://open.spotify.com/user/31htwvtb3qn57thlzmsbjqcuna24)
 
+<br>
+
 </td>
+
 </tr>
 </table>
 
@@ -70,7 +92,6 @@ When I'm not pushing commits, I'm chasing light through a lens, writing rap vers
 <br>
 
 ---
-
 <br>
 
 ## &nbsp;&nbsp;✦ &nbsp; the gallery
