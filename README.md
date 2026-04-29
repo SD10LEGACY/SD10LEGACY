@@ -40,49 +40,62 @@ When I'm not pushing commits, I'm chasing light through a lens, writing rap vers
 
 <div align="center">
 
-<table border="0" width="100%" cellpadding="20" cellspacing="0">
+<table border="0" width="88%" cellpadding="0" cellspacing="0">
 <tr>
-<td width="50%" valign="middle" align="center">
-
-**Currently building →**&nbsp;&nbsp;<a href="https://github.com/SD10LEGACY/PromptBoost"><kbd>Prompt Boost</kbd></a>
+<td width="50%" valign="top" align="center" style="padding: 28px 24px;">
 
 <br>
 
-**Currently supporting →**&nbsp;&nbsp;<a href="https://www.fcbarcelona.com/en/football/first-team/schedule"><kbd>FC Barcelona 🔵🔴</kbd></a>
+**Currently building →**
+
+<a href="https://github.com/SD10LEGACY/PromptBoost"><kbd>Prompt Boost</kbd></a>
+
+<br><br>
+
+**Currently supporting →**
+
+<a href="https://www.fcbarcelona.com/en/football/first-team/schedule"><kbd>FC Barcelona 🔵🔴</kbd></a>
+
+<br><br>
+
+**Currently shooting →**
+
+<a href="https://www.google.com/maps/place/Kolkata"><kbd>Streets of Kolkata</kbd></a>
 
 <br>
-
-**Currently shooting →**&nbsp;&nbsp;<a href="https://www.google.com/maps/place/Kolkata"><kbd>Streets of Kolkata</kbd></a>
 
 </td>
-<td width="50%" valign="middle" align="center">
-
-**Currently listening →**&nbsp;&nbsp;<a href="https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"><kbd>The Weeknd · Frank Ocean</kbd></a>
+<td width="50%" valign="top" align="center" style="padding: 28px 24px;">
 
 <br>
 
-<!-- ╔══════════════════════════════════════════════════════════╗ -->
-<!-- ║  ALBUM ART — customise whenever your listening changes  ║ -->
-<!-- ║                                                          ║ -->
-<!-- ║  To UPDATE the album:                                    ║ -->
-<!-- ║    1. Replace the href with the Spotify album URL        ║ -->
-<!-- ║    2. Replace the img src with the album cover URL       ║ -->
-<!-- ║       (open album on Spotify Web → right-click cover     ║ -->
-<!-- ║        → "Copy image address" → paste here)             ║ -->
-<!-- ║                                                          ║ -->
-<!-- ║  To HIDE the album art entirely, wrap the next          ║ -->
-<!-- ║  two lines inside an HTML comment like this:             ║ -->
-<!-- ║    Change:  <a href...  to  <!-- <a href...             ║ -->
-<!-- ║    Change:  </a>        to  </a> -->                    ║ -->
-<!-- ╚══════════════════════════════════════════════════════════╝ -->
+**Currently listening →**
+
+<a href="https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"><kbd>The Weeknd · Frank Ocean</kbd></a>
+
+<br><br>
+
+<!-- =========================================================== -->
+<!-- ALBUM ART — update whenever your listening changes          -->
+<!--                                                             -->
+<!-- To UPDATE: change the href to the Spotify album URL         -->
+<!--            change the img src to the album cover image URL  -->
+<!--            (on Spotify Web, right-click the cover           -->
+<!--             and select "Copy image address")                -->
+<!--                                                             -->
+<!-- To HIDE album art: add  <!--  before the next line         -->
+<!--                    and  - ->  after the closing </a> line  -->
+<!-- =========================================================== -->
 <a href="https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS">
-  <img src="https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d" width="180" alt="Album Cover" style="border-radius:10px;"/>
+  <img src="https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d" width="175" alt="Album Cover" style="border-radius:10px;"/>
 </a>
 <!-- END ALBUM ART -->
 
-<br>
+<br><br>
 
 [![Spotify](https://img.shields.io/badge/Open%20Spotify-0d0d0d?style=for-the-badge&logo=spotify&logoColor=C9A96E)](https://open.spotify.com/user/31htwvtb3qn57thlzmsbjqcuna24)
+
+<br>
 
 </td>
 </tr>
