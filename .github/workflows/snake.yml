@@ -2,29 +2,25 @@ name: Generate Datas
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs once daily at midnight UTC — no spam
-  workflow_dispatch:        # keep manual trigger so you can run it yourself anytime
-  # NOTE: "push" trigger intentionally removed — it caused an infinite loop
-  # (workflow commits README → push triggers workflow → commits again → repeat)
+    - cron: "0 0 * * *"  # runs once daily at midnight UTC
+  workflow_dispatch:       # you can also trigger it manually from Actions tab
+
+# NOTE: "on: push" is intentionally REMOVED.
+# It caused an infinite loop — bot commits README → push triggers run →
+# bot commits again → infinite. [skip ci] in the message also guards this.
 
 permissions:
   contents: write
 
 jobs:
-  build:
-    name: Jobs to update datas
+  # ─── JOB 1: Generate snake SVG and push to output branch ───────────────────
+  generate-snake:
+    name: Generate Snake Animation
     runs-on: ubuntu-latest
-
     steps:
-      # 1. Checkout with GH_PAT so the final push back to main is authenticated
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-          token: ${{ secrets.GH_PAT }}
 
-      # 2. Generate the Snake Animation SVGs
       - uses: Platane/snk/svg-only@v3
-        id: snake-gif
         with:
           github_user_name: SD10LEGACY
           outputs: |
@@ -33,7 +29,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # 3. Push SVGs to the output branch
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
@@ -41,30 +36,41 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # 4. Setup Python
+  # ─── JOB 2: Update contribution count in README ─────────────────────────────
+  update-readme:
+    name: Update Contribution Count
+    runs-on: ubuntu-latest
+    steps:
+      # IMPORTANT — token must be your PAT, not GITHUB_TOKEN, so the push works.
+      # In your repo go to: Settings → Secrets and variables → Actions
+      # Make sure you have a secret named exactly:  GH_PAT
+      # If you named it something else (e.g. ACCESS_TOKEN, MY_TOKEN),
+      # replace GH_PAT on every line below with your actual secret name.
+      # Your PAT needs these scopes: repo (full) + workflow
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GH_PAT }}
+
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
-      # 5. Install dependencies
-      - name: Install Python dependencies
+      - name: Install dependencies
         run: pip install requests
 
-      # 6. Run the contribution count script
-      - name: Update Contribution Count
+      - name: Fetch and write contribution count
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
         run: python update_count.py
 
-      # 7. Commit and push — two critical fixes here:
-      #    a) remote URL explicitly uses GH_PAT to avoid the 403 error
-      #    b) commit message contains [skip ci] so the push does NOT
-      #       re-trigger this workflow — breaks the infinite loop
-      - name: Commit and Push Updated README
+      # Sets the remote URL to use the PAT explicitly — this is what fixes 403.
+      # GITHUB_TOKEN cannot push to your own repo in this context; PAT can.
+      - name: Commit and push updated README
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git remote set-url origin https://x-access-token:${{ secrets.GH_PAT }}@github.com/SD10LEGACY/SD10LEGACY.git
           git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update dynamic contribution count [skip ci]" && git push)
+          git diff --staged --quiet || git commit -m "chore: update contribution count [skip ci]" && git push || echo "Nothing to push"
