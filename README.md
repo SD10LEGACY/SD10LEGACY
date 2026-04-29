@@ -307,14 +307,10 @@ A highly accurate classification model predicting sleep anomalies. Where clinica
 <div align="center">
 
 <br>
-<!-- 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&style=italic&size=22&pause=4000&color=6A5A40&center=true&vCenter=true&width=800&lines=%22Talk+is+cheap.+Show+me+the+code.%22+%E2%80%94+Linus+Torvalds;Keep+building.+Keep+shipping.+Leave+a+mark.)](https://git.io/typing-svg)
- -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&style=italic&size=22&pause=4000&color=6A5A40&center=true&vCenter=true&width=800&lines=%22Talk+is+cheap.+Show+me+the+code.%22+%E2%80%94+Linus+Torvalds;Keep+building.+Keep+shipping.+Leave+a+mark." alt="Typing SVG" />
-  </a>
-</p>
+
+
 <br>
 
 [![Portfolio](https://img.shields.io/badge/%E2%86%97_Visit_Portfolio-0d0d0d?style=for-the-badge&labelColor=1a1208&color=0d0d0d&logoColor=C9A96E)](https://shreyojitdas.vercel.app/)
