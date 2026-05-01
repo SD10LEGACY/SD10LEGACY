@@ -1,4 +1,4 @@
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGtxdmdsZTR4MWFrZTN3b21jbGp3MWh5MmZlaTJrYjlhanB0YnFjdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2lu3fIfUbfTStOIXx1/giphy.gif" width="100%" style="border-radius: 15px;" alt="Let Him Cook">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGtxdmdsZTR4MWFrZTN3b21jbGp3MWh5MmZlaTJrYjlhanB0YnFjdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2lu3fIfUbfTStOIXx1/giphy.gif" width="100%" style="border-radius: 15px;" alt="Let Him Cook"
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1208,100:0a0a0a&height=80&section=header&text=&animation=twinkling"/>
 
