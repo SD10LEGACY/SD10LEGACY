@@ -246,9 +246,14 @@ A highly accurate classification model predicting sleep anomalies. Where clinica
 
 <br /><br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=SD10LEGACY&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=C9A96E&icon_color=C9A96E&text_color=7A6A50&ring_color=C9A96E" width="48%" alt="GitHub Stats"/>
+<!-- ================================================================ -->
+<!-- STATS CARDS — pointing to YOUR OWN Vercel deployment             -->
+<!-- After deploying (see instructions below), replace YOUR_VERCEL_URL -->
+<!-- with your actual Vercel app URL e.g. sd10-stats.vercel.app       -->
+<!-- ================================================================ -->
+<img src="https://shreyojit-github-stats.vercel.app/api?username=SD10LEGACY&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=C9A96E&icon_color=C9A96E&text_color=7A6A50&ring_color=C9A96E" width="48%" alt="GitHub Stats"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SD10LEGACY&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=C9A96E&text_color=7A6A50&langs_count=8" width="46%" alt="Top Languages"/>
+<img src="https://shreyojit-github-stats.vercel.app/api/top-langs/?username=SD10LEGACY&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=C9A96E&text_color=7A6A50&langs_count=8" width="46%" alt="Top Languages"/>
 
 <br /><br />
 
@@ -262,7 +267,7 @@ A highly accurate classification model predicting sleep anomalies. Where clinica
 
 <br>
 
-## &nbsp;&nbsp;✦ &nbsp; <!-- CONTRIBUTION_COUNT_START -->2053<!-- CONTRIBUTION_COUNT_END --> contributions in the last year
+## &nbsp;&nbsp;✦ &nbsp; <!-- CONTRIBUTION_COUNT_START -->∞<!-- CONTRIBUTION_COUNT_END --> contributions in the last year
 
 <br />
 
@@ -309,7 +314,6 @@ A highly accurate classification model predicting sleep anomalies. Where clinica
 <br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&style=italic&size=22&pause=4000&color=6A5A40&center=true&vCenter=true&width=800&lines=%22Talk+is+cheap.+Show+me+the+code.%22+%E2%80%94+Linus+Torvalds;Keep+building.+Keep+shipping.+Leave+a+mark.)](https://git.io/typing-svg)
-
 
 <br>
 
