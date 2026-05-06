@@ -2,18 +2,16 @@ name: Generate Datas
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # runs once daily at midnight UTC
-  workflow_dispatch:       # you can also trigger it manually from Actions tab
-
-# NOTE: "on: push" is intentionally REMOVED.
-# It caused an infinite loop — bot commits README → push triggers run →
-# bot commits again → infinite. [skip ci] in the message also guards this.
+    - cron: "0 */6 * * *"  # every 6 hours — stays fresh, no spam
+  workflow_dispatch:
 
 permissions:
   contents: write
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true  # fixes Node.js 20 deprecation warnings
+
 jobs:
-  # ─── JOB 1: Generate snake SVG and push to output branch ───────────────────
   generate-snake:
     name: Generate Snake Animation
     runs-on: ubuntu-latest
@@ -36,26 +34,21 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-  # ─── JOB 2: Update contribution count in README ─────────────────────────────
   update-readme:
     name: Update Contribution Count
     runs-on: ubuntu-latest
     steps:
-      # IMPORTANT — token must be your PAT, not GITHUB_TOKEN, so the push works.
-      # In your repo go to: Settings → Secrets and variables → Actions
-      # Make sure you have a secret named exactly:  GH_PAT
-      # If you named it something else (e.g. ACCESS_TOKEN, MY_TOKEN),
-      # replace GH_PAT on every line below with your actual secret name.
-      # Your PAT needs these scopes: repo (full) + workflow
+      # SECRET NAME: Go to repo Settings → Secrets → Actions
+      # Your secret must be named exactly: GH_PAT
+      # PAT needs scopes: repo (full) + workflow
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
           token: ${{ secrets.GH_PAT }}
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
+          python-version: '3.11'
 
       - name: Install dependencies
         run: pip install requests
@@ -65,12 +58,10 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
         run: python update_count.py
 
-      # Sets the remote URL to use the PAT explicitly — this is what fixes 403.
-      # GITHUB_TOKEN cannot push to your own repo in this context; PAT can.
       - name: Commit and push updated README
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git remote set-url origin https://x-access-token:${{ secrets.GH_PAT }}@github.com/SD10LEGACY/SD10LEGACY.git
           git add README.md
-          git diff --staged --quiet || git commit -m "chore: update contribution count [skip ci]" && git push || echo "Nothing to push"
+          git diff --staged --quiet && echo "Nothing to commit" || (git commit -m "chore: update contribution count [skip ci]" && git push)
