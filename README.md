@@ -234,8 +234,10 @@ A highly accurate classification model predicting sleep anomalies. Where clinica
 <br /><br />
 
 <img src="https://streak-stats.demolab.com?user=SD10LEGACY&hide_border=true&background=0d0d0d&ring=C9A96E&fire=C9A96E&currStreakLabel=C9A96E&sideLabels=7A6A50&dates=7A6A50&sideNums=C9A96E&currStreakNum=C9A96E&stroke=1a1208" width="60%" alt="GitHub Streak"/>
-
+<!-- 
 <img src="https://raw.githubusercontent.com/SD10LEGACY/SD10LEGACY/main/github-metrics-isocalendar.svg" width="100%" alt="Isometric Contribution Calendar"/>
+ -->
+
 </div>
 
 <br>
