@@ -301,3 +301,4 @@ A highly accurate classification model predicting sleep anomalies. Where clinica
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1208,100:0a0a0a&height=100&section=footer&animation=twinkling"/>
+<img src="https://raw.githubusercontent.com/SD10LEGACY/SD10LEGACY/main/github-metrics-isocalendar.svg" width="100%" alt="Isometric Contribution Calendar"/>
