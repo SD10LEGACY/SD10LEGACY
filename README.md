@@ -12,7 +12,7 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/%E2%86%97%20shreyojitdas.vercel.app-0d0d0d?style=for-the-badge&labelColor=C9A96E&color=0d0d0d)](https://shreyojitdas.vercel.app/)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Write%20Me-0d0d0d?style=for-the-badge&labelColor=2a1f14&color=0d0d0d&logo=gmail&logoColor=C9A96E)](mailto:shreyojit.iembca2026@gmail.com)
+[![Portfolio](https://img.shields.io/badge/%E2%86%97%20shreyojitdas.vercel.app-0d0d0d?style=for-the-badge&labelColor=C9A96E&color=0d0d0d)](https://shreyojitdas.vercel.app/)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Write%20Me-0d0d0d?style=for-the-badge&labelColor=2a1f14&color=0d0d0d&logo=gmail&logoColor=C9A96E)](mailto:shreyojit.iembca2026@gmail.com)&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=C9A96E&labelColor=2a1f14)](https://linkedin.com/in/shreyojit-das)
 
 <br>
 
@@ -24,7 +24,7 @@
 
 <br>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:1a1208,100:0a0a0a&height=2" width="100%"/>
 
 <br>
 
@@ -40,62 +40,49 @@ When I'm not pushing commits, I'm chasing light through a lens, writing rap vers
 
 <div align="center">
 
-<table border="0" width="88%" cellpadding="0" cellspacing="0">
+<table border="0" width="100%" cellpadding="20" cellspacing="0">
 <tr>
-<td width="50%" valign="top" align="center" style="padding: 28px 24px;">
+<td width="50%" valign="middle" align="center">
+
+**Currently building →**&nbsp;&nbsp;<a href="https://github.com/SD10LEGACY/PromptBoost"><kbd>Prompt Boost</kbd></a>
 
 <br>
 
-**Currently building →**
-
-<a href="https://github.com/SD10LEGACY/PromptBoost"><kbd>Prompt Boost</kbd></a>
-
-<br><br>
-
-**Currently supporting →**
-
-<a href="https://www.fcbarcelona.com/en/football/first-team/schedule"><kbd>FC Barcelona 🔵🔴</kbd></a>
-
-<br><br>
-
-**Currently shooting →**
-
-<a href="https://www.google.com/maps/place/Kolkata"><kbd>Streets of Kolkata</kbd></a>
+**Currently supporting →**&nbsp;&nbsp;<a href="https://www.fcbarcelona.com/en/football/first-team/schedule"><kbd>FC Barcelona 🔵🔴</kbd></a>
 
 <br>
+
+**Currently shooting →**&nbsp;&nbsp;<a href="https://www.google.com/maps/place/Kolkata"><kbd>Streets of Kolkata</kbd></a>
 
 </td>
-<td width="50%" valign="top" align="center" style="padding: 28px 24px;">
+<td width="50%" valign="middle" align="center">
+
+**Currently listening →**&nbsp;&nbsp;<a href="https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"><kbd>The Weeknd · Frank Ocean</kbd></a>
 
 <br>
 
-**Currently listening →**
-
-<a href="https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"><kbd>The Weeknd · Frank Ocean</kbd></a>
-
-<br><br>
-
-<!-- =========================================================== -->
-<!-- ALBUM ART — update whenever your listening changes          -->
-<!--                                                             -->
-<!-- To UPDATE: change the href to the Spotify album URL         -->
-<!--            change the img src to the album cover image URL  -->
-<!--            (on Spotify Web, right-click the cover           -->
-<!--             and select "Copy image address")                -->
-<!--                                                             -->
-<!-- To HIDE album art: add  <!--  before the next line         -->
-<!--                    and  - ->  after the closing </a> line  -->
-<!-- =========================================================== -->
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!-- ║  ALBUM ART — customise whenever your listening changes  ║ -->
+<!-- ║                                                          ║ -->
+<!-- ║  To UPDATE the album:                                    ║ -->
+<!-- ║    1. Replace the href with the Spotify album URL        ║ -->
+<!-- ║    2. Replace the img src with the album cover URL       ║ -->
+<!-- ║       (open album on Spotify Web → right-click cover     ║ -->
+<!-- ║        → "Copy image address" → paste here)             ║ -->
+<!-- ║                                                          ║ -->
+<!-- ║  To HIDE the album art entirely, wrap the next          ║ -->
+<!-- ║  two lines inside an HTML comment like this:             ║ -->
+<!-- ║    Change:  <a href...  to  <!-- <a href...             ║ -->
+<!-- ║    Change:  </a>        to  </a> -->                    ║ -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
 <a href="https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS">
-  <img src="https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d" width="175" alt="Album Cover" style="border-radius:10px;"/>
+  <img src="https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d" width="180" alt="Album Cover" style="border-radius:10px;"/>
 </a>
 <!-- END ALBUM ART -->
 
-<br><br>
+<br>
 
 [![Spotify](https://img.shields.io/badge/Open%20Spotify-0d0d0d?style=for-the-badge&logo=spotify&logoColor=C9A96E)](https://open.spotify.com/user/31htwvtb3qn57thlzmsbjqcuna24)
-
-<br>
 
 </td>
 </tr>
@@ -105,7 +92,7 @@ When I'm not pushing commits, I'm chasing light through a lens, writing rap vers
 
 <br>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:1a1208,100:0a0a0a&height=2" width="100%"/>
 
 <br>
 
@@ -162,7 +149,7 @@ A highly accurate classification model predicting sleep anomalies. Where clinica
 
 <br>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:1a1208,100:0a0a0a&height=2" width="100%"/>
 
 <br>
 
@@ -232,7 +219,7 @@ A highly accurate classification model predicting sleep anomalies. Where clinica
 
 <br>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:1a1208,100:0a0a0a&height=2" width="100%"/>
 
 <br>
 
@@ -246,11 +233,6 @@ A highly accurate classification model predicting sleep anomalies. Where clinica
 
 <br /><br />
 
-<!-- ================================================================ -->
-<!-- STATS CARDS — pointing to YOUR OWN Vercel deployment             -->
-<!-- After deploying (see instructions below), replace YOUR_VERCEL_URL -->
-<!-- with your actual Vercel app URL e.g. sd10-stats.vercel.app       -->
-<!-- ================================================================ -->
 <img src="https://shreyojit-github-stats.vercel.app/api?username=SD10LEGACY&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=C9A96E&icon_color=C9A96E&text_color=7A6A50&ring_color=C9A96E" width="48%" alt="GitHub Stats"/>
 &nbsp;
 <img src="https://shreyojit-github-stats.vercel.app/api/top-langs/?username=SD10LEGACY&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=C9A96E&text_color=7A6A50&langs_count=8" width="46%" alt="Top Languages"/>
@@ -258,12 +240,20 @@ A highly accurate classification model predicting sleep anomalies. Where clinica
 <br /><br />
 
 <img src="https://streak-stats.demolab.com?user=SD10LEGACY&hide_border=true&background=0d0d0d&ring=C9A96E&fire=C9A96E&currStreakLabel=C9A96E&sideLabels=7A6A50&dates=7A6A50&sideNums=C9A96E&currStreakNum=C9A96E&stroke=1a1208" width="60%" alt="GitHub Streak"/>
+<br /><br />
+
+<!-- ================================================================ -->
+<!-- ISOMETRIC 3D CALENDAR — generated by the Metrics workflow        -->
+<!-- Go to Actions tab → Metrics → Run workflow to generate this file -->
+<!-- After first run, it auto-updates daily                           -->
+<!-- ================================================================ -->
+<img src="https://raw.githubusercontent.com/SD10LEGACY/SD10LEGACY/main/github-metrics-isocalendar.svg" width="100%" alt="Isometric Contribution Calendar"/>
 
 </div>
 
 <br>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:1a1208,100:0a0a0a&height=2" width="100%"/>
 
 <br>
 
@@ -289,7 +279,7 @@ A highly accurate classification model predicting sleep anomalies. Where clinica
 
 <br>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:1a1208,100:0a0a0a&height=2" width="100%"/>
 
 <br>
 <div align="center">
@@ -305,7 +295,7 @@ A highly accurate classification model predicting sleep anomalies. Where clinica
 
 <br>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:1a1208,100:0a0a0a&height=2" width="100%"/>
 
 <br>
 
