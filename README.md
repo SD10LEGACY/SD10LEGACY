@@ -69,8 +69,8 @@ When I'm not pushing commits, I'm chasing light through a lens, writing rap vers
 <!--                                                              -->
 <!-- To HIDE: put    <!--    on the line before the <a href      -->
 <!--          put    - - >   on the line after the closing </a>  -->
-<a href="https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS">
-  <img src="https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d" width="180" alt="Album Cover" style="border-radius:10px;"/>
+<a href="https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY?si=SSQrV8MwRIqf1D277w8TGg">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUocCM1eF_baZQorSPV-8JjFu_COqNbV05fw&s" width="180" alt="Album Cover" style="border-radius:10px;"/>
 </a>
 <!-- END ALBUM ART -->
 
